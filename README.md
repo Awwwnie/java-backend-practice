@@ -56,7 +56,7 @@ I am continuously updating this repository as I learn new concepts and improve m
 
 * Start building structured mini projects.
 * Learn Spring Boot for backend development.
-* Work with databases like MySQL.
+* Work with databases like MySQL
 * Develop REST APIs
 
 ---
