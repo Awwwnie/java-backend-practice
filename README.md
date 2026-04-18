@@ -6,7 +6,6 @@ This repository contains my practice work while learning backend development usi
 It focuses on building a strong foundation in core Java concepts, object-oriented programming, and problem-solving.
 
 ---
-
 ## 🛠️ Tech Stack
 
 * Java
